@@ -2,10 +2,6 @@ body {
     background: deepskyblue;
 }
 
-img {
-    float: left;
-}
-
 p {
     color: white;
 }
@@ -24,4 +20,8 @@ h1 {
 
 .center {
     text-align: center;
+}
+
+img {
+    float: left;
 }
