@@ -2,6 +2,10 @@ body {
     background: deepskyblue;
 }
 
+img {
+    float: left;
+}
+
 p {
     color: white;
 }
